@@ -8,4 +8,4 @@
 3- Navigate to the directory where the game files are located.
 
 4- Run the following command to start the game:
-"python tic_tac_toe.py"
+"python TicTacToe.py"
